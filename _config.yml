@@ -12,4 +12,8 @@ color:
     - '#8E2800'
 layout_spectrum: 0.1637592981569469
 name: Drone Visites
+navigation:
+  - name: Drone visites
+    url: 'https://www.facebook.com/dronesvisites/videos/934219846707399/'
+    type: external
 description: Production aériennes à la réunion
